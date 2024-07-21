@@ -1,7 +1,7 @@
 $(document).ready(function() {
   console.log("ready!");
 
-  // Issue1: Click event for "Load Foods" button
+  // Issue1: add into DOM https://github.com/AustinMO30/vigilant-cow-food-app/issues/1
   $('#btnLoadFoods').click(function() {
     $('#foodList').empty(); // Clear the existing food list
 
